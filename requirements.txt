@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-google-genai
+langchain-community
+langchain-qdrant
+qdrant-client
+fastembed
+unstructured[all-docs]
+google-api-python-client
+google-auth-oauthlib
+python-dotenv
+pytesseract
+pdf2image
